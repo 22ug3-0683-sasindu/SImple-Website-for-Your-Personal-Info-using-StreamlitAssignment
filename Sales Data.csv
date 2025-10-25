@@ -1,0 +1,351 @@
+OrderID,OrderDate,Region,Segment,Category,SubCategory,Product,Quantity,UnitPrice,Discount,Sales,Profit,CustomerSegment
+ORD1000,2023-04-13,North,Consumer,Office Supplies,Art,Markers Set,4,1426.56,0.1,5135.62,1202.84,Corporate
+ORD1001,2023-05-02,South,Consumer,Office Supplies,Paper,Photo Paper,3,158.96,0.1,429.19,112.04,Education
+ORD1002,2023-03-29,North,Consumer,Technology,Accessories,Wireless Mouse,5,905.66,0.1,4075.47,676.18,Consumer
+ORD1003,2023-07-11,South,Education,Technology,Printers,All-in-One 700,4,283.27,0.15,963.12,189.04,Home Office
+ORD1004,2023-11-10,North,Corporate,Office Supplies,Appliances,Lamination Machine,6,20.53,0.0,123.18,30.12,Home Office
+ORD1005,2023-06-19,South,Corporate,Furniture,Chairs,Ergo Chair,4,1460.9,0.1,5259.24,390.68,Education
+ORD1006,2023-12-30,North,Home Office,Furniture,Bookcases,3-Shelf Bookcase,4,892.7,0.1,3213.72,425.85,Education
+ORD1007,2023-11-25,North,Education,Technology,Laptops,Gaming 16,2,1423.84,0.15,2420.53,496.15,Corporate
+ORD1008,2023-01-14,North,Consumer,Office Supplies,Binders,3-Ring Binder,2,584.27,0.05,1110.11,253.92,Consumer
+ORD1009,2023-09-21,South,Consumer,Furniture,Bookcases,5-Shelf Bookcase,3,1364.89,0.15,3480.47,351.3,Home Office
+ORD1010,2023-02-19,South,Home Office,Furniture,Tables,Meeting Table,4,474.45,0.05,1802.91,191.39,Home Office
+ORD1011,2023-08-06,North,Corporate,Office Supplies,Binders,2-Ring Binder,4,1409.85,0.15,4793.49,1064.15,Education
+ORD1012,2023-09-27,West,Home Office,Office Supplies,Binders,3-Ring Binder,6,302.01,0.0,1812.06,412.98,Consumer
+ORD1013,2023-10-07,South,Consumer,Furniture,Storage,Steel Cabinet,2,1448.23,0.15,2461.99,416.7,Consumer
+ORD1014,2023-02-10,South,Home Office,Technology,Printers,LaserJet 500,5,1205.27,0.0,6026.35,1076.87,Education
+ORD1015,2023-05-09,South,Home Office,Technology,Accessories,Keyboard,4,447.3,0.1,1610.28,276.55,Education
+ORD1016,2023-03-22,West,Home Office,Technology,Accessories,Charger,3,1187.36,0.1,3205.87,557.13,Consumer
+ORD1017,2023-02-10,North,Consumer,Technology,Accessories,Charger,4,1296.02,0.15,4406.47,710.74,Consumer
+ORD1018,2023-02-02,West,Education,Office Supplies,Appliances,Label Maker,6,494.52,0.1,2670.41,461.38,Home Office
+ORD1019,2023-02-04,North,Consumer,Office Supplies,Art,Sketch Pad,1,580.56,0.1,522.5,124.95,Home Office
+ORD1020,2023-09-14,North,Home Office,Furniture,Tables,Office Desk,5,846.3,0.1,3808.35,157.69,Consumer
+ORD1021,2023-02-11,East,Corporate,Office Supplies,Paper,Photo Paper,4,170.76,0.0,683.04,167.11,Home Office
+ORD1022,2023-02-21,South,Corporate,Furniture,Tables,Meeting Table,5,767.77,0.2,3071.08,319.29,Consumer
+ORD1023,2023-06-20,East,Education,Technology,Phones,Galaxy S22,5,350.91,0.1,1579.1,213.41,Home Office
+ORD1024,2023-08-31,South,Consumer,Technology,Phones,XPhone Mini,6,1321.9,0.05,7534.83,1469.62,Education
+ORD1025,2023-05-14,North,Corporate,Technology,Printers,All-in-One 700,4,1207.47,0.15,4105.4,881.62,Corporate
+ORD1026,2023-12-06,East,Education,Technology,Accessories,Keyboard,6,1326.09,0.05,7558.71,1286.28,Education
+ORD1027,2023-07-09,East,Education,Office Supplies,Appliances,Shredder,1,415.48,0.1,373.93,72.6,Corporate
+ORD1028,2023-05-01,South,Consumer,Furniture,Chairs,Task Chair,4,535.33,0.1,1927.19,231.56,Corporate
+ORD1029,2023-05-17,South,Consumer,Technology,Phones,XPhone Pro,6,340.94,0.1,1841.08,318.44,Consumer
+ORD1030,2023-08-22,North,Home Office,Technology,Accessories,Keyboard,4,373.75,0.1,1345.5,250.87,Education
+ORD1031,2023-08-21,South,Corporate,Office Supplies,Appliances,Shredder,4,551.81,0.0,2207.24,351.68,Education
+ORD1032,2023-02-21,West,Corporate,Technology,Phones,Pixel 7,4,385.16,0.05,1463.61,230.15,Home Office
+ORD1033,2023-03-22,West,Education,Furniture,Chairs,Task Chair,3,918.25,0.05,2617.01,349.95,Consumer
+ORD1034,2023-08-08,North,Education,Office Supplies,Art,Markers Set,6,59.25,0.0,355.5,93.5,Corporate
+ORD1035,2023-02-22,South,Corporate,Office Supplies,Appliances,Shredder,4,677.2,0.15,2302.48,580.16,Education
+ORD1036,2023-07-22,South,Home Office,Furniture,Tables,Standing Desk,3,370.82,0.2,889.97,144.31,Education
+ORD1037,2023-08-28,North,Consumer,Office Supplies,Paper,A4 Paper,1,234.57,0.1,211.11,55.26,Corporate
+ORD1038,2023-11-22,South,Education,Furniture,Storage,Mobile Drawer,5,1288.95,0.15,5478.04,402.53,Education
+ORD1039,2023-12-18,North,Corporate,Furniture,Chairs,Executive Chair,4,1411.38,0.05,5363.24,654.62,Home Office
+ORD1040,2023-12-26,West,Home Office,Furniture,Storage,Mobile Drawer,1,1016.78,0.0,1016.78,111.13,Corporate
+ORD1041,2023-09-09,East,Corporate,Technology,Phones,Galaxy S22,2,1473.43,0.15,2504.83,492.66,Consumer
+ORD1042,2023-03-01,North,Education,Office Supplies,Binders,2-Ring Binder,1,370.36,0.15,314.81,78.71,Consumer
+ORD1043,2023-01-09,South,Consumer,Office Supplies,Paper,Photo Paper,1,530.32,0.1,477.29,107.19,Corporate
+ORD1044,2023-06-01,West,Consumer,Office Supplies,Binders,2-Ring Binder,6,1172.01,0.15,5977.25,1355.57,Consumer
+ORD1045,2023-08-15,West,Home Office,Furniture,Tables,Meeting Table,6,1410.8,0.0,8464.8,1230.97,Home Office
+ORD1046,2023-12-15,South,Home Office,Furniture,Tables,Meeting Table,2,249.6,0.05,474.24,15.94,Home Office
+ORD1047,2023-06-18,West,Home Office,Technology,Phones,Pixel 7,4,1071.15,0.0,4284.6,667.99,Consumer
+ORD1048,2023-10-04,North,Corporate,Office Supplies,Art,Markers Set,4,556.04,0.1,2001.74,489.75,Home Office
+ORD1049,2023-01-22,North,Corporate,Furniture,Bookcases,3-Shelf Bookcase,6,888.91,0.2,4266.77,754.81,Education
+ORD1050,2023-02-20,East,Consumer,Office Supplies,Art,Sketch Pad,6,1360.09,0.1,7344.49,1618.65,Consumer
+ORD1051,2023-10-11,South,Home Office,Technology,Phones,XPhone Pro,1,300.91,0.2,240.73,53.83,Home Office
+ORD1052,2023-10-31,East,Corporate,Office Supplies,Art,Markers Set,3,862.29,0.0,2586.87,430.72,Home Office
+ORD1053,2023-01-06,West,Home Office,Technology,Phones,Pixel 7,3,1124.1,0.2,2697.84,465.93,Home Office
+ORD1054,2023-10-07,North,Consumer,Furniture,Tables,Meeting Table,5,647.99,0.2,2591.96,337.19,Home Office
+ORD1055,2023-04-26,South,Education,Office Supplies,Appliances,Label Maker,5,583.8,0.0,2919.0,646.61,Consumer
+ORD1056,2023-09-13,North,Consumer,Office Supplies,Binders,2-Ring Binder,3,262.54,0.0,787.62,199.18,Home Office
+ORD1057,2023-11-19,South,Education,Technology,Phones,Galaxy S22,6,154.79,0.05,882.3,149.94,Home Office
+ORD1058,2023-05-07,North,Home Office,Technology,Accessories,USB-C Cable,3,449.98,0.05,1282.44,264.41,Home Office
+ORD1059,2023-10-26,West,Corporate,Technology,Accessories,Wireless Mouse,6,545.64,0.2,2619.07,555.21,Education
+ORD1060,2023-06-19,North,Corporate,Office Supplies,Art,Highlighters Pack,2,1217.07,0.0,2434.14,481.99,Corporate
+ORD1061,2023-11-09,East,Corporate,Office Supplies,Paper,Legal Paper,4,1199.46,0.0,4797.84,1083.64,Consumer
+ORD1062,2023-09-21,West,Corporate,Technology,Printers,LaserJet 500,6,1195.73,0.15,6098.22,812.18,Home Office
+ORD1063,2023-12-08,South,Corporate,Technology,Accessories,Charger,3,703.74,0.2,1688.98,405.37,Home Office
+ORD1064,2023-05-30,East,Consumer,Furniture,Bookcases,5-Shelf Bookcase,2,1292.0,0.0,2584.0,240.85,Home Office
+ORD1065,2023-09-21,North,Consumer,Furniture,Tables,Meeting Table,5,414.6,0.15,1762.05,193.75,Home Office
+ORD1066,2023-01-05,North,Consumer,Office Supplies,Appliances,Lamination Machine,4,1264.61,0.15,4299.67,1160.54,Home Office
+ORD1067,2023-11-04,West,Consumer,Furniture,Tables,Office Desk,5,1454.61,0.05,6909.4,675.9,Consumer
+ORD1068,2023-06-07,West,Consumer,Office Supplies,Binders,3-Ring Binder,3,1194.83,0.1,3226.04,633.03,Education
+ORD1069,2023-08-17,North,Home Office,Office Supplies,Art,Sketch Pad,2,1444.35,0.0,2888.7,625.57,Consumer
+ORD1070,2023-05-09,East,Home Office,Office Supplies,Appliances,Lamination Machine,2,1373.67,0.05,2609.97,549.19,Education
+ORD1071,2023-03-30,East,Corporate,Technology,Printers,All-in-One 700,5,427.1,0.2,1708.4,297.02,Education
+ORD1072,2023-07-11,South,Home Office,Furniture,Chairs,Executive Chair,5,921.46,0.1,4146.57,406.69,Home Office
+ORD1073,2023-03-27,South,Education,Office Supplies,Art,Highlighters Pack,1,519.4,0.15,441.49,80.18,Education
+ORD1074,2023-03-10,West,Corporate,Office Supplies,Appliances,Label Maker,1,474.01,0.15,402.91,97.09,Corporate
+ORD1075,2023-04-10,North,Home Office,Office Supplies,Art,Markers Set,1,702.36,0.2,561.89,133.73,Corporate
+ORD1076,2023-01-23,East,Corporate,Technology,Accessories,USB-C Cable,2,927.62,0.2,1484.19,252.71,Consumer
+ORD1077,2023-09-07,South,Education,Office Supplies,Paper,Legal Paper,3,759.67,0.0,2279.01,537.25,Education
+ORD1078,2023-11-21,South,Education,Furniture,Storage,Mobile Drawer,5,252.77,0.05,1200.66,146.59,Corporate
+ORD1079,2023-12-06,North,Consumer,Furniture,Tables,Standing Desk,4,588.37,0.15,2000.46,216.93,Education
+ORD1080,2023-02-02,North,Corporate,Technology,Printers,InkJet 300,1,1218.69,0.1,1096.82,192.43,Education
+ORD1081,2023-06-17,East,Education,Office Supplies,Appliances,Label Maker,2,317.96,0.2,508.74,120.9,Education
+ORD1082,2023-01-12,South,Education,Furniture,Bookcases,3-Shelf Bookcase,6,37.15,0.1,200.61,14.78,Home Office
+ORD1083,2023-03-31,West,Corporate,Furniture,Storage,Mobile Drawer,5,1268.86,0.05,6027.08,925.2,Home Office
+ORD1084,2023-04-25,South,Home Office,Furniture,Bookcases,3-Shelf Bookcase,1,749.1,0.05,711.64,105.72,Corporate
+ORD1085,2023-08-05,South,Corporate,Furniture,Tables,Meeting Table,5,1451.7,0.15,6169.72,1009.22,Corporate
+ORD1086,2023-12-23,North,Education,Furniture,Bookcases,5-Shelf Bookcase,1,857.1,0.1,771.39,92.08,Education
+ORD1087,2023-04-06,North,Corporate,Furniture,Storage,Mobile Drawer,6,847.18,0.15,4320.62,533.68,Education
+ORD1088,2023-07-02,West,Consumer,Furniture,Bookcases,5-Shelf Bookcase,5,1112.46,0.1,5006.07,796.79,Education
+ORD1089,2023-12-08,South,Education,Technology,Laptops,Workstation 14,5,1344.33,0.0,6721.65,1214.13,Education
+ORD1090,2023-04-10,North,Education,Furniture,Storage,Mobile Drawer,4,1438.23,0.1,5177.63,579.22,Education
+ORD1091,2023-07-25,South,Consumer,Furniture,Chairs,Ergo Chair,4,864.42,0.2,2766.14,281.06,Education
+ORD1092,2023-03-10,South,Education,Technology,Phones,Galaxy S22,3,907.64,0.15,2314.48,497.02,Education
+ORD1093,2023-05-31,East,Corporate,Furniture,Bookcases,5-Shelf Bookcase,1,179.06,0.2,143.25,20.59,Education
+ORD1094,2023-02-11,East,Education,Furniture,Chairs,Executive Chair,2,95.76,0.05,181.94,27.16,Consumer
+ORD1095,2023-08-23,North,Home Office,Technology,Phones,XPhone Mini,3,184.43,0.15,470.3,82.58,Consumer
+ORD1096,2023-01-09,South,Corporate,Technology,Accessories,Wireless Mouse,2,1257.08,0.0,2514.16,419.87,Corporate
+ORD1097,2023-10-10,West,Consumer,Office Supplies,Binders,3-Ring Binder,2,228.44,0.2,365.5,82.64,Home Office
+ORD1098,2023-06-14,East,Corporate,Office Supplies,Paper,A4 Paper,6,1480.09,0.2,7104.43,1809.01,Home Office
+ORD1099,2023-11-23,North,Consumer,Furniture,Storage,Steel Cabinet,1,891.91,0.15,758.12,80.12,Corporate
+ORD1100,2023-03-11,North,Corporate,Technology,Laptops,Ultrabook 13,4,134.42,0.2,430.14,96.5,Consumer
+ORD1101,2023-07-21,East,Education,Office Supplies,Art,Markers Set,2,502.08,0.1,903.74,174.98,Home Office
+ORD1102,2023-06-22,North,Education,Furniture,Chairs,Executive Chair,5,613.75,0.05,2915.31,424.35,Home Office
+ORD1103,2023-12-27,West,Corporate,Furniture,Tables,Meeting Table,1,1024.75,0.15,871.04,124.6,Home Office
+ORD1104,2023-07-09,West,Education,Furniture,Bookcases,5-Shelf Bookcase,1,568.56,0.0,568.56,69.21,Corporate
+ORD1105,2023-04-27,North,Home Office,Furniture,Tables,Office Desk,6,1205.14,0.2,5784.67,547.67,Education
+ORD1106,2023-06-09,East,Consumer,Furniture,Bookcases,3-Shelf Bookcase,5,74.31,0.2,297.24,34.17,Education
+ORD1107,2023-05-27,South,Home Office,Furniture,Bookcases,5-Shelf Bookcase,4,122.4,0.0,489.6,62.94,Home Office
+ORD1108,2023-11-01,North,Corporate,Technology,Accessories,Charger,6,448.8,0.0,2692.8,581.68,Education
+ORD1109,2023-05-24,South,Education,Office Supplies,Appliances,Lamination Machine,1,1373.73,0.05,1305.04,358.21,Consumer
+ORD1110,2023-08-12,North,Home Office,Technology,Printers,All-in-One 700,6,688.93,0.15,3513.54,528.38,Corporate
+ORD1111,2023-06-13,East,Home Office,Furniture,Bookcases,5-Shelf Bookcase,2,588.52,0.15,1000.48,105.32,Home Office
+ORD1112,2023-06-27,East,Education,Furniture,Bookcases,5-Shelf Bookcase,4,125.82,0.0,503.28,55.51,Corporate
+ORD1113,2023-05-25,North,Corporate,Furniture,Chairs,Task Chair,1,471.2,0.15,400.52,28.12,Corporate
+ORD1114,2023-08-08,South,Corporate,Office Supplies,Appliances,Lamination Machine,5,208.45,0.1,938.02,227.24,Home Office
+ORD1115,2023-01-10,North,Corporate,Furniture,Tables,Office Desk,6,1300.44,0.2,6242.11,1025.58,Corporate
+ORD1116,2023-01-05,East,Consumer,Office Supplies,Binders,3-Ring Binder,1,1168.63,0.05,1110.2,187.19,Consumer
+ORD1117,2023-12-08,North,Home Office,Office Supplies,Binders,3-Ring Binder,3,1264.76,0.2,3035.42,791.08,Consumer
+ORD1118,2023-04-08,North,Home Office,Furniture,Storage,Steel Cabinet,1,628.08,0.0,628.08,81.82,Home Office
+ORD1119,2023-05-13,South,Consumer,Furniture,Storage,Mobile Drawer,6,1370.62,0.2,6578.98,1166.76,Consumer
+ORD1120,2023-02-22,West,Education,Technology,Phones,XPhone Pro,5,1138.05,0.1,5121.23,873.73,Corporate
+ORD1121,2023-01-01,East,Consumer,Technology,Phones,Pixel 7,3,419.35,0.15,1069.34,141.18,Corporate
+ORD1122,2023-10-15,West,Education,Furniture,Bookcases,5-Shelf Bookcase,2,543.66,0.05,1032.95,16.17,Home Office
+ORD1123,2023-09-16,North,Consumer,Technology,Accessories,Keyboard,3,468.59,0.0,1405.77,241.73,Consumer
+ORD1124,2023-02-23,South,Corporate,Technology,Phones,XPhone Pro,4,845.8,0.1,3044.88,454.87,Consumer
+ORD1125,2023-10-30,West,Education,Office Supplies,Appliances,Lamination Machine,5,934.26,0.05,4437.73,940.48,Consumer
+ORD1126,2023-03-16,South,Home Office,Office Supplies,Art,Sketch Pad,3,1355.7,0.15,3457.04,766.16,Education
+ORD1127,2023-12-04,North,Corporate,Furniture,Tables,Office Desk,6,836.68,0.1,4518.07,574.75,Consumer
+ORD1128,2023-11-04,South,Corporate,Furniture,Tables,Standing Desk,1,775.84,0.15,659.46,83.49,Consumer
+ORD1129,2023-03-22,South,Home Office,Office Supplies,Art,Highlighters Pack,5,1196.74,0.05,5684.52,929.33,Consumer
+ORD1130,2023-07-03,West,Home Office,Office Supplies,Appliances,Lamination Machine,1,743.25,0.15,631.76,110.12,Education
+ORD1131,2023-05-06,West,Consumer,Office Supplies,Paper,Legal Paper,3,873.68,0.1,2358.94,604.31,Home Office
+ORD1132,2023-04-21,East,Consumer,Technology,Accessories,USB-C Cable,1,695.58,0.1,626.02,119.57,Home Office
+ORD1133,2023-12-26,North,Corporate,Furniture,Storage,Steel Cabinet,4,525.04,0.1,1890.14,173.52,Corporate
+ORD1134,2023-12-18,West,Education,Technology,Printers,LaserJet 500,3,777.7,0.05,2216.45,308.15,Education
+ORD1135,2023-10-04,East,Home Office,Office Supplies,Paper,A4 Paper,5,524.17,0.05,2489.81,585.41,Home Office
+ORD1136,2023-11-13,West,Education,Furniture,Storage,Mobile Drawer,6,142.17,0.0,853.02,47.45,Education
+ORD1137,2023-02-15,North,Home Office,Furniture,Bookcases,3-Shelf Bookcase,2,201.84,0.05,383.5,51.92,Education
+ORD1138,2023-10-28,North,Education,Furniture,Chairs,Ergo Chair,3,68.58,0.0,205.74,36.81,Home Office
+ORD1139,2023-02-25,West,Education,Technology,Accessories,Keyboard,6,243.9,0.2,1170.72,203.8,Corporate
+ORD1140,2023-12-03,East,Education,Office Supplies,Appliances,Shredder,2,1303.77,0.0,2607.54,587.59,Consumer
+ORD1141,2023-10-30,South,Corporate,Furniture,Chairs,Task Chair,6,361.81,0.15,1845.23,223.4,Education
+ORD1142,2023-03-19,North,Corporate,Technology,Printers,InkJet 300,2,1123.73,0.1,2022.71,415.75,Corporate
+ORD1143,2023-04-21,West,Home Office,Office Supplies,Art,Highlighters Pack,6,1126.93,0.15,5747.34,1094.07,Education
+ORD1144,2023-10-01,West,Corporate,Furniture,Tables,Office Desk,2,537.68,0.1,967.82,92.61,Corporate
+ORD1145,2023-01-28,South,Consumer,Furniture,Storage,Steel Cabinet,2,850.31,0.0,1700.62,157.93,Home Office
+ORD1146,2023-08-19,North,Home Office,Office Supplies,Art,Sketch Pad,6,497.97,0.15,2539.65,505.2,Education
+ORD1147,2023-01-25,South,Education,Office Supplies,Appliances,Lamination Machine,4,539.11,0.0,2156.44,397.22,Home Office
+ORD1148,2023-04-19,West,Education,Furniture,Tables,Meeting Table,2,139.51,0.05,265.07,48.38,Corporate
+ORD1149,2023-08-24,West,Corporate,Furniture,Chairs,Executive Chair,3,574.37,0.2,1378.49,222.94,Education
+ORD1150,2023-01-06,West,Education,Office Supplies,Binders,3-Ring Binder,4,972.42,0.05,3695.2,811.7,Consumer
+ORD1151,2023-08-17,South,Home Office,Technology,Printers,InkJet 300,1,363.47,0.2,290.78,38.05,Education
+ORD1152,2023-07-17,North,Corporate,Furniture,Tables,Standing Desk,6,376.48,0.15,1920.05,276.34,Education
+ORD1153,2023-12-01,East,Home Office,Office Supplies,Appliances,Label Maker,6,1462.85,0.1,7899.39,1772.28,Consumer
+ORD1154,2023-03-03,East,Education,Furniture,Storage,Mobile Drawer,1,1080.5,0.1,972.45,67.99,Consumer
+ORD1155,2023-10-27,South,Home Office,Technology,Phones,Pixel 7,5,288.7,0.15,1226.97,240.86,Consumer
+ORD1156,2023-10-02,North,Education,Technology,Laptops,Ultrabook 13,4,766.34,0.0,3065.36,721.61,Consumer
+ORD1157,2023-05-22,East,Consumer,Furniture,Bookcases,5-Shelf Bookcase,6,876.04,0.1,4730.62,605.42,Education
+ORD1158,2023-12-22,South,Corporate,Office Supplies,Appliances,Label Maker,5,803.56,0.0,4017.8,793.76,Corporate
+ORD1159,2023-09-18,South,Corporate,Technology,Printers,All-in-One 700,2,1485.04,0.2,2376.06,275.23,Corporate
+ORD1160,2023-06-17,West,Corporate,Technology,Printers,All-in-One 700,2,140.92,0.2,225.47,56.75,Home Office
+ORD1161,2023-04-04,West,Home Office,Office Supplies,Paper,Legal Paper,1,1277.58,0.15,1085.94,219.22,Home Office
+ORD1162,2023-08-24,South,Consumer,Furniture,Bookcases,5-Shelf Bookcase,2,195.2,0.1,351.36,43.08,Education
+ORD1163,2023-03-01,East,Education,Furniture,Tables,Office Desk,5,218.26,0.0,1091.3,125.86,Education
+ORD1164,2023-08-17,North,Corporate,Furniture,Bookcases,5-Shelf Bookcase,6,1201.31,0.1,6487.07,855.21,Home Office
+ORD1165,2023-03-19,North,Education,Furniture,Chairs,Task Chair,2,1362.72,0.0,2725.44,292.63,Consumer
+ORD1166,2023-08-25,West,Home Office,Technology,Laptops,Ultrabook 15,2,594.74,0.1,1070.53,215.43,Corporate
+ORD1167,2023-03-04,East,Corporate,Office Supplies,Paper,Photo Paper,1,356.0,0.0,356.0,101.91,Consumer
+ORD1168,2023-11-05,East,Education,Technology,Laptops,Ultrabook 15,3,818.85,0.1,2210.9,299.89,Consumer
+ORD1169,2023-01-15,East,Home Office,Office Supplies,Appliances,Shredder,5,748.18,0.1,3366.81,856.22,Corporate
+ORD1170,2023-06-06,South,Home Office,Office Supplies,Art,Markers Set,6,1131.08,0.2,5429.18,1329.66,Home Office
+ORD1171,2023-09-11,West,Home Office,Office Supplies,Art,Markers Set,4,859.14,0.05,3264.73,634.39,Education
+ORD1172,2023-01-05,North,Corporate,Technology,Printers,All-in-One 700,3,1134.41,0.2,2722.58,468.02,Home Office
+ORD1173,2023-06-06,North,Education,Technology,Laptops,Ultrabook 13,5,734.67,0.15,3122.35,470.34,Education
+ORD1174,2023-11-28,East,Home Office,Office Supplies,Appliances,Label Maker,5,1082.85,0.1,4872.82,1132.46,Home Office
+ORD1175,2023-10-26,North,Corporate,Furniture,Chairs,Task Chair,3,525.09,0.1,1417.74,249.95,Home Office
+ORD1176,2023-09-11,South,Consumer,Office Supplies,Appliances,Label Maker,2,520.36,0.05,988.68,222.86,Home Office
+ORD1177,2023-04-21,West,Consumer,Technology,Phones,XPhone Mini,4,893.51,0.15,3037.93,787.76,Home Office
+ORD1178,2023-12-22,West,Consumer,Technology,Accessories,Wireless Mouse,4,1187.23,0.2,3799.14,593.75,Education
+ORD1179,2023-04-02,West,Home Office,Office Supplies,Appliances,Label Maker,2,112.69,0.1,202.84,47.49,Corporate
+ORD1180,2023-01-29,West,Consumer,Furniture,Storage,Steel Cabinet,6,1402.21,0.1,7571.93,683.84,Consumer
+ORD1181,2023-12-12,East,Corporate,Furniture,Storage,Mobile Drawer,6,287.62,0.0,1725.72,200.57,Home Office
+ORD1182,2023-01-01,North,Home Office,Office Supplies,Art,Markers Set,6,783.07,0.2,3758.74,984.47,Education
+ORD1183,2023-07-21,East,Corporate,Technology,Printers,InkJet 300,4,1183.81,0.05,4498.48,716.55,Corporate
+ORD1184,2023-10-18,North,Consumer,Furniture,Tables,Standing Desk,4,810.72,0.1,2918.59,344.5,Corporate
+ORD1185,2023-12-13,North,Corporate,Office Supplies,Binders,2-Ring Binder,1,884.73,0.1,796.26,194.46,Home Office
+ORD1186,2023-12-30,South,Consumer,Furniture,Tables,Standing Desk,3,219.88,0.0,659.64,25.79,Home Office
+ORD1187,2023-12-10,South,Consumer,Office Supplies,Paper,A4 Paper,1,549.97,0.1,494.97,108.09,Consumer
+ORD1188,2023-05-30,East,Corporate,Office Supplies,Art,Markers Set,2,29.51,0.2,47.22,11.02,Corporate
+ORD1189,2023-12-27,East,Consumer,Technology,Printers,All-in-One 700,1,840.38,0.15,714.32,128.88,Consumer
+ORD1190,2023-03-04,North,Education,Furniture,Bookcases,3-Shelf Bookcase,5,284.85,0.0,1424.25,133.7,Education
+ORD1191,2023-07-30,South,Consumer,Office Supplies,Art,Highlighters Pack,6,315.66,0.2,1515.17,260.07,Consumer
+ORD1192,2023-11-01,North,Education,Furniture,Storage,Mobile Drawer,5,572.81,0.1,2577.64,416.69,Education
+ORD1193,2023-04-23,West,Consumer,Technology,Laptops,Ultrabook 15,2,750.55,0.1,1350.99,135.4,Consumer
+ORD1194,2023-11-15,South,Home Office,Office Supplies,Art,Highlighters Pack,4,281.07,0.2,899.42,200.83,Home Office
+ORD1195,2023-09-23,West,Education,Technology,Phones,XPhone Pro,2,1347.17,0.05,2559.62,446.61,Education
+ORD1196,2023-03-28,West,Corporate,Furniture,Bookcases,5-Shelf Bookcase,4,1261.29,0.2,4036.13,632.32,Education
+ORD1197,2023-11-19,West,Consumer,Furniture,Storage,Steel Cabinet,3,763.21,0.0,2289.63,125.4,Home Office
+ORD1198,2023-08-27,East,Corporate,Office Supplies,Appliances,Shredder,5,276.03,0.0,1380.15,374.71,Consumer
+ORD1199,2023-10-18,North,Consumer,Furniture,Chairs,Task Chair,6,908.76,0.1,4907.3,653.79,Home Office
+ORD1200,2023-06-14,South,Consumer,Office Supplies,Art,Sketch Pad,6,315.43,0.05,1797.95,413.14,Consumer
+ORD1201,2023-07-07,West,Home Office,Office Supplies,Appliances,Label Maker,2,1340.08,0.2,2144.13,391.23,Consumer
+ORD1202,2023-01-11,East,Home Office,Furniture,Chairs,Task Chair,2,1239.41,0.1,2230.94,163.53,Corporate
+ORD1203,2023-09-18,South,Education,Technology,Phones,Galaxy S22,5,620.02,0.0,3100.1,614.38,Home Office
+ORD1204,2023-08-14,North,Home Office,Office Supplies,Binders,3-Ring Binder,5,448.75,0.15,1907.19,429.1,Consumer
+ORD1205,2023-02-28,East,Consumer,Technology,Laptops,Gaming 16,6,711.89,0.0,4271.34,643.78,Home Office
+ORD1206,2023-04-25,East,Consumer,Technology,Accessories,Charger,1,410.33,0.05,389.81,54.4,Consumer
+ORD1207,2023-09-03,South,Consumer,Technology,Accessories,Charger,6,1254.05,0.15,6395.65,1293.83,Education
+ORD1208,2023-06-03,West,Home Office,Technology,Laptops,Gaming 16,2,1351.85,0.05,2568.52,336.76,Home Office
+ORD1209,2023-01-17,North,Consumer,Technology,Accessories,USB-C Cable,5,980.62,0.05,4657.94,915.55,Consumer
+ORD1210,2023-03-17,East,Education,Office Supplies,Appliances,Lamination Machine,5,26.38,0.2,105.52,20.37,Education
+ORD1211,2023-08-07,West,Home Office,Technology,Phones,Galaxy S22,2,904.77,0.0,1809.54,276.34,Education
+ORD1212,2023-11-05,North,Home Office,Office Supplies,Appliances,Label Maker,2,1372.47,0.05,2607.69,683.52,Home Office
+ORD1213,2023-02-15,North,Corporate,Furniture,Chairs,Ergo Chair,2,257.76,0.1,463.97,48.78,Corporate
+ORD1214,2023-07-12,East,Corporate,Technology,Laptops,Gaming 16,3,144.6,0.1,390.42,63.11,Home Office
+ORD1215,2023-10-23,North,Consumer,Furniture,Storage,Mobile Drawer,3,539.95,0.0,1619.85,126.02,Corporate
+ORD1216,2023-07-06,West,Corporate,Office Supplies,Art,Markers Set,3,1424.47,0.2,3418.73,572.15,Education
+ORD1217,2023-08-27,North,Education,Technology,Printers,InkJet 300,4,251.4,0.15,854.76,150.68,Home Office
+ORD1218,2023-12-03,West,Education,Office Supplies,Appliances,Lamination Machine,6,1433.3,0.1,7739.82,1969.62,Consumer
+ORD1219,2023-03-14,West,Consumer,Furniture,Tables,Meeting Table,1,533.79,0.0,533.79,52.79,Education
+ORD1220,2023-08-05,East,Consumer,Furniture,Chairs,Ergo Chair,5,1035.72,0.05,4919.67,472.74,Education
+ORD1221,2023-08-17,West,Consumer,Furniture,Bookcases,5-Shelf Bookcase,4,1045.1,0.05,3971.38,467.54,Corporate
+ORD1222,2023-01-12,East,Corporate,Technology,Phones,XPhone Pro,3,478.75,0.1,1292.62,229.79,Home Office
+ORD1223,2023-10-30,East,Corporate,Technology,Phones,XPhone Pro,4,817.43,0.1,2942.75,584.49,Home Office
+ORD1224,2023-09-21,South,Corporate,Office Supplies,Binders,2-Ring Binder,5,1140.96,0.2,4563.84,1118.22,Corporate
+ORD1225,2023-01-25,West,Education,Office Supplies,Appliances,Label Maker,2,739.24,0.1,1330.63,311.07,Home Office
+ORD1226,2023-12-31,East,Corporate,Furniture,Chairs,Executive Chair,2,68.75,0.05,130.62,10.77,Education
+ORD1227,2023-09-27,East,Home Office,Office Supplies,Paper,Legal Paper,5,1099.23,0.1,4946.54,1474.96,Consumer
+ORD1228,2023-06-25,East,Education,Furniture,Chairs,Ergo Chair,2,638.43,0.2,1021.49,157.18,Home Office
+ORD1229,2023-04-13,East,Consumer,Office Supplies,Paper,Photo Paper,1,978.75,0.1,880.88,191.67,Education
+ORD1230,2023-04-18,West,Consumer,Furniture,Tables,Office Desk,4,726.78,0.1,2616.41,232.14,Education
+ORD1231,2023-07-02,South,Consumer,Furniture,Chairs,Executive Chair,4,862.92,0.0,3451.68,546.53,Consumer
+ORD1232,2023-01-04,South,Consumer,Technology,Printers,LaserJet 500,5,995.87,0.2,3983.48,820.73,Corporate
+ORD1233,2023-04-18,East,Home Office,Furniture,Storage,Steel Cabinet,6,632.08,0.1,3413.23,438.57,Home Office
+ORD1234,2023-06-19,North,Home Office,Technology,Laptops,Ultrabook 13,2,41.69,0.2,66.7,13.43,Education
+ORD1235,2023-08-15,East,Home Office,Office Supplies,Binders,3-Ring Binder,3,1496.92,0.15,3817.15,845.16,Consumer
+ORD1236,2023-01-29,South,Home Office,Furniture,Storage,Mobile Drawer,6,141.93,0.2,681.26,134.84,Consumer
+ORD1237,2023-08-24,East,Education,Office Supplies,Art,Markers Set,1,1154.73,0.0,1154.73,231.51,Consumer
+ORD1238,2023-12-25,West,Home Office,Technology,Laptops,Gaming 16,4,1109.0,0.0,4436.0,758.51,Corporate
+ORD1239,2023-06-07,South,Home Office,Furniture,Tables,Standing Desk,2,451.5,0.2,722.4,69.25,Corporate
+ORD1240,2023-06-02,South,Consumer,Furniture,Chairs,Task Chair,1,1366.41,0.0,1366.41,153.92,Consumer
+ORD1241,2023-05-20,East,Corporate,Office Supplies,Appliances,Shredder,3,1425.44,0.2,3421.06,661.99,Corporate
+ORD1242,2023-07-17,South,Corporate,Office Supplies,Appliances,Shredder,6,905.19,0.2,4344.91,936.43,Education
+ORD1243,2023-12-15,East,Corporate,Furniture,Bookcases,5-Shelf Bookcase,6,915.53,0.2,4394.54,440.41,Corporate
+ORD1244,2023-11-26,South,Home Office,Furniture,Tables,Office Desk,3,273.03,0.05,778.14,104.32,Education
+ORD1245,2023-02-23,West,Home Office,Furniture,Storage,Mobile Drawer,1,782.21,0.15,664.88,89.92,Corporate
+ORD1246,2023-08-29,South,Home Office,Technology,Printers,LaserJet 500,5,397.75,0.1,1789.88,364.92,Consumer
+ORD1247,2023-08-04,North,Home Office,Technology,Accessories,Keyboard,3,1225.59,0.2,2941.42,621.98,Education
+ORD1248,2023-04-30,South,Education,Technology,Accessories,Charger,5,810.09,0.0,4050.45,456.2,Home Office
+ORD1249,2023-05-03,North,Education,Technology,Printers,All-in-One 700,4,720.25,0.1,2592.9,398.4,Home Office
+ORD1250,2023-08-14,South,Education,Technology,Laptops,Ultrabook 15,4,62.78,0.0,251.12,38.79,Consumer
+ORD1251,2023-05-04,East,Consumer,Office Supplies,Art,Markers Set,6,397.03,0.2,1905.74,425.25,Corporate
+ORD1252,2023-06-25,North,Home Office,Furniture,Tables,Meeting Table,2,803.58,0.2,1285.73,181.09,Education
+ORD1253,2023-03-22,West,Consumer,Technology,Phones,Galaxy S22,2,747.77,0.2,1196.43,177.28,Corporate
+ORD1254,2023-04-25,South,Education,Technology,Laptops,Ultrabook 15,2,861.27,0.05,1636.41,348.74,Home Office
+ORD1255,2023-10-16,North,Consumer,Technology,Printers,All-in-One 700,6,786.68,0.15,4012.07,738.13,Education
+ORD1256,2023-12-19,North,Consumer,Furniture,Chairs,Task Chair,3,1302.27,0.0,3906.81,331.82,Corporate
+ORD1257,2023-06-30,South,Home Office,Furniture,Chairs,Task Chair,2,167.69,0.1,301.84,29.5,Home Office
+ORD1258,2023-07-07,South,Education,Technology,Phones,Galaxy S22,5,1322.5,0.05,6281.88,1326.77,Consumer
+ORD1259,2023-06-09,North,Education,Furniture,Chairs,Task Chair,3,350.65,0.05,999.35,117.08,Education
+ORD1260,2023-12-22,East,Home Office,Office Supplies,Paper,Legal Paper,2,1249.88,0.2,1999.81,393.04,Consumer
+ORD1261,2023-01-13,East,Corporate,Office Supplies,Paper,Photo Paper,6,496.39,0.0,2978.34,600.28,Home Office
+ORD1262,2023-01-17,South,Consumer,Furniture,Bookcases,3-Shelf Bookcase,2,954.67,0.2,1527.47,169.19,Education
+ORD1263,2023-03-15,West,Corporate,Technology,Phones,Pixel 7,1,1444.86,0.15,1228.13,229.14,Consumer
+ORD1264,2023-03-01,East,Corporate,Technology,Accessories,USB-C Cable,6,1133.01,0.15,5778.35,1130.01,Home Office
+ORD1265,2023-11-20,East,Education,Office Supplies,Appliances,Lamination Machine,3,257.9,0.15,657.64,132.36,Consumer
+ORD1266,2023-07-12,South,Home Office,Furniture,Chairs,Task Chair,6,935.16,0.1,5049.86,517.12,Home Office
+ORD1267,2023-09-08,East,Consumer,Furniture,Storage,Steel Cabinet,3,895.65,0.15,2283.91,404.99,Education
+ORD1268,2023-01-07,West,Home Office,Technology,Printers,All-in-One 700,5,42.96,0.1,193.32,34.14,Education
+ORD1269,2023-01-04,East,Home Office,Technology,Printers,InkJet 300,1,162.27,0.0,162.27,23.25,Education
+ORD1270,2023-02-08,South,Home Office,Furniture,Chairs,Ergo Chair,5,1043.59,0.15,4435.26,593.93,Home Office
+ORD1271,2023-03-25,East,Home Office,Furniture,Storage,Mobile Drawer,6,205.69,0.1,1110.73,152.54,Education
+ORD1272,2023-12-03,East,Education,Technology,Laptops,Workstation 14,6,235.08,0.15,1198.91,231.3,Home Office
+ORD1273,2023-12-23,North,Consumer,Office Supplies,Appliances,Lamination Machine,3,1447.14,0.1,3907.28,888.12,Corporate
+ORD1274,2023-09-14,North,Corporate,Office Supplies,Appliances,Shredder,2,1342.21,0.05,2550.2,465.29,Corporate
+ORD1275,2023-09-28,North,Corporate,Office Supplies,Art,Highlighters Pack,4,715.08,0.15,2431.27,640.18,Education
+ORD1276,2023-05-25,North,Corporate,Office Supplies,Appliances,Lamination Machine,5,1167.13,0.1,5252.09,1227.93,Home Office
+ORD1277,2023-12-15,West,Consumer,Office Supplies,Binders,3-Ring Binder,4,58.46,0.15,198.76,47.35,Education
+ORD1278,2023-02-15,East,Home Office,Technology,Phones,XPhone Mini,1,11.84,0.0,11.84,1.62,Corporate
+ORD1279,2023-01-09,West,Education,Office Supplies,Paper,Legal Paper,6,346.05,0.15,1764.86,420.36,Home Office
+ORD1280,2023-11-15,West,Corporate,Office Supplies,Art,Sketch Pad,6,877.14,0.2,4210.27,742.68,Education
+ORD1281,2023-03-05,South,Consumer,Technology,Phones,Pixel 7,5,232.88,0.2,931.52,222.6,Corporate
+ORD1282,2023-10-01,West,Consumer,Office Supplies,Art,Sketch Pad,6,594.82,0.1,3212.03,782.37,Home Office
+ORD1283,2023-04-12,North,Home Office,Furniture,Tables,Meeting Table,1,69.03,0.1,62.13,8.25,Corporate
+ORD1284,2023-03-29,East,Corporate,Technology,Accessories,Wireless Mouse,1,370.65,0.0,370.65,63.12,Corporate
+ORD1285,2023-11-06,West,Consumer,Furniture,Bookcases,5-Shelf Bookcase,6,323.42,0.0,1940.52,235.63,Corporate
+ORD1286,2023-07-21,North,Consumer,Furniture,Storage,Steel Cabinet,2,496.43,0.05,943.22,142.14,Education
+ORD1287,2023-03-18,West,Consumer,Technology,Laptops,Ultrabook 13,4,543.12,0.05,2063.86,377.17,Education
+ORD1288,2023-06-15,West,Home Office,Technology,Accessories,Wireless Mouse,2,1037.3,0.05,1970.87,375.56,Education
+ORD1289,2023-11-13,North,Consumer,Office Supplies,Binders,3-Ring Binder,3,1345.37,0.0,4036.11,904.02,Corporate
+ORD1290,2023-09-19,South,Home Office,Office Supplies,Binders,3-Ring Binder,1,87.44,0.0,87.44,21.07,Home Office
+ORD1291,2023-06-27,North,Home Office,Technology,Laptops,Ultrabook 15,4,1204.57,0.1,4336.45,831.75,Home Office
+ORD1292,2023-01-07,North,Corporate,Office Supplies,Binders,2-Ring Binder,3,1343.28,0.15,3425.36,892.46,Home Office
+ORD1293,2023-01-03,North,Consumer,Technology,Phones,Galaxy S22,1,254.36,0.1,228.92,44.39,Corporate
+ORD1294,2023-01-12,West,Consumer,Furniture,Bookcases,5-Shelf Bookcase,4,247.72,0.2,792.7,58.08,Education
+ORD1295,2023-08-26,South,Education,Furniture,Storage,Mobile Drawer,4,1118.98,0.2,3580.74,542.95,Consumer
+ORD1296,2023-04-29,South,Education,Furniture,Storage,Steel Cabinet,5,991.47,0.1,4461.62,359.89,Corporate
+ORD1297,2023-11-08,East,Corporate,Furniture,Bookcases,5-Shelf Bookcase,1,744.98,0.15,633.23,98.75,Education
+ORD1298,2023-07-21,South,Home Office,Office Supplies,Paper,Legal Paper,3,1023.54,0.2,2456.5,441.33,Corporate
+ORD1299,2023-11-28,West,Consumer,Furniture,Storage,Mobile Drawer,1,1303.73,0.05,1238.54,134.87,Corporate
+ORD1300,2023-01-24,North,Consumer,Furniture,Storage,Steel Cabinet,4,946.86,0.15,3219.32,235.48,Corporate
+ORD1301,2023-04-27,South,Home Office,Office Supplies,Art,Markers Set,2,735.14,0.05,1396.77,391.17,Corporate
+ORD1302,2023-12-01,West,Education,Furniture,Bookcases,5-Shelf Bookcase,2,1191.5,0.05,2263.85,184.92,Consumer
+ORD1303,2023-01-18,North,Education,Office Supplies,Appliances,Shredder,5,1102.34,0.1,4960.53,860.83,Corporate
+ORD1304,2023-10-09,East,Consumer,Technology,Laptops,Workstation 14,4,1364.46,0.05,5184.95,983.66,Education
+ORD1305,2023-02-10,East,Consumer,Technology,Printers,InkJet 300,6,155.12,0.2,744.58,127.51,Home Office
+ORD1306,2023-04-21,East,Education,Furniture,Chairs,Executive Chair,6,777.08,0.0,4662.48,463.58,Consumer
+ORD1307,2023-05-25,South,Home Office,Office Supplies,Art,Markers Set,3,475.1,0.15,1211.51,276.55,Education
+ORD1308,2023-03-07,West,Home Office,Office Supplies,Paper,A4 Paper,3,988.54,0.0,2965.62,610.83,Consumer
+ORD1309,2023-10-28,West,Home Office,Furniture,Bookcases,3-Shelf Bookcase,3,1326.73,0.05,3781.18,493.05,Corporate
+ORD1310,2023-04-03,West,Consumer,Technology,Phones,XPhone Pro,2,1007.39,0.0,2014.78,268.58,Home Office
+ORD1311,2023-06-20,West,Education,Technology,Accessories,Keyboard,4,1063.1,0.15,3614.54,604.19,Home Office
+ORD1312,2023-10-11,South,Education,Office Supplies,Art,Sketch Pad,1,912.25,0.2,729.8,193.28,Home Office
+ORD1313,2023-04-30,West,Home Office,Furniture,Chairs,Executive Chair,4,675.09,0.15,2295.31,287.68,Home Office
+ORD1314,2023-09-08,North,Education,Office Supplies,Art,Sketch Pad,5,60.94,0.05,289.46,60.89,Consumer
+ORD1315,2023-10-09,West,Home Office,Office Supplies,Binders,2-Ring Binder,5,963.6,0.1,4336.2,895.29,Education
+ORD1316,2023-07-17,South,Education,Technology,Accessories,USB-C Cable,5,1401.47,0.2,5605.88,1041.17,Consumer
+ORD1317,2023-01-12,South,Consumer,Furniture,Bookcases,5-Shelf Bookcase,2,602.09,0.05,1143.97,106.58,Corporate
+ORD1318,2023-08-04,West,Corporate,Furniture,Storage,Mobile Drawer,3,17.36,0.05,49.48,3.64,Corporate
+ORD1319,2023-06-27,South,Home Office,Office Supplies,Appliances,Label Maker,4,803.05,0.2,2569.76,604.16,Education
+ORD1320,2023-11-04,East,Corporate,Furniture,Bookcases,5-Shelf Bookcase,2,310.76,0.05,590.44,81.48,Home Office
+ORD1321,2023-06-06,West,Corporate,Technology,Laptops,Gaming 16,6,1303.53,0.05,7430.12,1156.85,Corporate
+ORD1322,2023-07-12,East,Home Office,Office Supplies,Binders,3-Ring Binder,2,567.7,0.05,1078.63,258.93,Home Office
+ORD1323,2023-10-30,West,Home Office,Office Supplies,Art,Highlighters Pack,1,55.28,0.0,55.28,11.3,Consumer
+ORD1324,2023-10-29,West,Education,Furniture,Tables,Office Desk,4,1018.0,0.1,3664.8,532.04,Consumer
+ORD1325,2023-08-08,East,Consumer,Furniture,Storage,Steel Cabinet,2,1499.13,0.0,2998.26,523.08,Education
+ORD1326,2023-06-10,South,Corporate,Office Supplies,Art,Sketch Pad,1,1490.07,0.2,1192.06,274.43,Home Office
+ORD1327,2023-11-20,South,Consumer,Office Supplies,Binders,2-Ring Binder,2,612.17,0.15,1040.69,273.76,Consumer
+ORD1328,2023-04-12,South,Corporate,Technology,Phones,Pixel 7,3,1213.69,0.05,3459.02,584.83,Home Office
+ORD1329,2023-12-31,West,Consumer,Office Supplies,Binders,2-Ring Binder,3,569.75,0.0,1709.25,414.64,Corporate
+ORD1330,2023-08-01,West,Education,Furniture,Tables,Office Desk,1,556.03,0.2,444.82,65.05,Home Office
+ORD1331,2023-11-01,East,Consumer,Technology,Accessories,USB-C Cable,1,672.18,0.05,638.57,73.62,Corporate
+ORD1332,2023-09-24,West,Corporate,Technology,Printers,LaserJet 500,3,260.98,0.05,743.79,133.94,Corporate
+ORD1333,2023-03-26,East,Consumer,Technology,Laptops,Ultrabook 13,2,1427.7,0.05,2712.63,620.14,Home Office
+ORD1334,2023-04-27,East,Education,Office Supplies,Appliances,Shredder,5,518.46,0.15,2203.46,490.68,Education
+ORD1335,2023-10-27,East,Corporate,Technology,Laptops,Ultrabook 15,4,915.78,0.05,3479.96,503.06,Education
+ORD1336,2023-12-30,East,Corporate,Technology,Laptops,Gaming 16,3,786.64,0.2,1887.94,382.81,Corporate
+ORD1337,2023-10-08,South,Education,Furniture,Bookcases,3-Shelf Bookcase,4,1391.28,0.15,4730.35,607.55,Education
+ORD1338,2023-10-04,North,Corporate,Technology,Printers,LaserJet 500,5,533.92,0.05,2536.12,486.2,Corporate
+ORD1339,2023-02-21,North,Home Office,Furniture,Tables,Office Desk,6,467.86,0.15,2386.09,206.87,Home Office
+ORD1340,2023-10-18,East,Home Office,Office Supplies,Paper,Legal Paper,2,919.4,0.05,1746.86,400.88,Home Office
+ORD1341,2023-03-31,South,Consumer,Office Supplies,Paper,Legal Paper,1,788.5,0.15,670.22,146.11,Home Office
+ORD1342,2023-03-15,South,Education,Office Supplies,Art,Sketch Pad,5,285.03,0.0,1425.15,245.43,Consumer
+ORD1343,2023-02-05,East,Home Office,Office Supplies,Binders,2-Ring Binder,4,730.48,0.0,2921.92,681.43,Corporate
+ORD1344,2023-06-21,West,Corporate,Furniture,Bookcases,5-Shelf Bookcase,5,953.4,0.1,4290.3,842.54,Education
+ORD1345,2023-01-26,South,Corporate,Office Supplies,Paper,Photo Paper,1,973.44,0.05,924.77,214.91,Education
+ORD1346,2023-05-01,East,Consumer,Office Supplies,Paper,A4 Paper,5,1359.78,0.0,6798.9,1648.16,Corporate
+ORD1347,2023-02-19,South,Corporate,Furniture,Storage,Mobile Drawer,3,1278.25,0.05,3643.01,360.57,Corporate
+ORD1348,2023-12-11,West,Consumer,Office Supplies,Appliances,Shredder,2,1152.32,0.05,2189.41,627.66,Education
+ORD1349,2023-06-24,South,Education,Furniture,Chairs,Task Chair,1,1107.94,0.05,1052.54,87.22,Education
