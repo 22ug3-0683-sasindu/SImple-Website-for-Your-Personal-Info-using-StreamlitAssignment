@@ -8,7 +8,7 @@ st.set_page_config(page_title="Retail Dashboard (Demo)", layout="wide")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("Sales Data.csv","us-population-2010-2019 (1)" parse_dates=["OrderDate"])
+    df = pd.read_csv("Sales Data.csv", parse_dates=["OrderDate"])
     return df
 
 df = load_data()
