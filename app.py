@@ -8,7 +8,17 @@ st.set_page_config(page_title="Retail Dashboard (Demo)", layout="wide")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("Sales Data.csv", parse_dates=["OrderDate"])
+    # --- Load two files (CSV or Excel) ---
+    df1 = pd.read_csv("Sales Data.csv", parse_dates=["OrderDate"])
+    df2 = pd.read_csv("us-population-2010-2019 (1).csv")
+
+    # --- Optional: merge or just concatenate ---
+    # If both have similar columns → combine vertically
+    df = pd.concat([df1, df2], ignore_index=True)
+
+    # If you want to merge on a common column instead (example below):
+    # df = pd.merge(df1, df2, on="Region", how="left")
+
     return df
 
 df = load_data()
